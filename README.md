@@ -10,7 +10,7 @@ I’m driven by the desire to solve real-world problems using data-driven soluti
 
 ## 🚀 About Me
 
-- 🌱 I’m currently specializing in **Machine Learning, Deep Learning, and Image Processing**.
+- 🌱 I’m currently specializing in **Machine Learning and Deep Learning**.
 - 🎓 **Education**:
   - Bachelor’s in Mathematics
   - Bachelor’s in Engineering Sciences (Data Science and AI)
