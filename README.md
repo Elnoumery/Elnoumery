@@ -15,7 +15,7 @@ I’m driven by the desire to solve real-world problems using data-driven soluti
   - Bachelor’s in Mathematics
   - Bachelor’s in Engineering Sciences (Data Science and AI)
   - Master’s in Engineering Sciences (Data Science and AI) - *In Progress*
-- 🥋 **Hobbies**: Judo, Football, and Agriculture.
+- 🥋 **Hobbies**: Sport,Reading,Meditation and Agriculture.
 - 💡 **Philosophy**: I believe in continuous learning and using technology to create innovative solutions for global challenges.
 
 ---
